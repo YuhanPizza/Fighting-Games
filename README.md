@@ -1,2 +1,2 @@
 # Fighting-Game
-Try out the game on candaceloveslorenz.netlify.app
+Try out the game on <a href="candaceloveslorenz.netlify.app"> Here </a>
